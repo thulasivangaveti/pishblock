@@ -8,3 +8,4 @@ Chrome Extension for detecting phishing emails
 3. Enable **Developer Mode**
 4. Click **"Load unpacked"** and select the folder
 5. Open Gmail and scan emails for phishing!
+6. Add your email to google console cloud
